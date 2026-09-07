@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AairaZubair/DSA/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/AairaZubair/DSA/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AairaZubair/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AairaZubair/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/AairaZubair/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AairaZubair/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/AairaZubair/DSA/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
