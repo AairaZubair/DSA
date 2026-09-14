@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AairaZubair/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AairaZubair/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AairaZubair/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/AairaZubair/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AairaZubair/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AairaZubair/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AairaZubair/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AairaZubair/DSA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AairaZubair/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Counting Sort
 |  |
 | ------- |
@@ -120,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/AairaZubair/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AairaZubair/DSA/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AairaZubair/DSA/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
