@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/AairaZubair/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AairaZubair/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
